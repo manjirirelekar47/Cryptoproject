@@ -2,7 +2,7 @@
 
 A working prototype built from a hackathon pitch: trace a victim-reported crypto wallet address across multiple hops/chains and attribute it to a real exchange (VASP) deposit address — with a risk score and an investigator-ready report, in minutes instead of weeks.
 
-**Built for**: Ministry of Home Affairs · I4C, CIS Division · Theme: Blockchain & Cybersecurity (30-hr hackathon submission)
+Theme: Blockchain & Cybersecurity (30-hr hackathon submission)
 
 **Live**: [cryptoproject.manjiri-relekar47.workers.dev](https://cryptoproject.manjiri-relekar47.workers.dev/)
 
